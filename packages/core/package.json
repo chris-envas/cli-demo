@@ -1,6 +1,6 @@
 {
   "name": "@yxyunti/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "yt-cli",
   "author": "luojinxu <382967255@qq.com>",
   "homepage": "",
@@ -21,6 +21,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@yxyunti/utils": "^0.0.0"
+    "@yxyunti/utils": "^0.0.1"
   }
 }
